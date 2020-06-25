@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/appointment-scheduler-app/precache-manifest.8f6a4800b9b36fff5d76871c3e302bb9.js"
+  "/appointment-scheduler-app/precache-manifest.eb413d69d134d44d7125990a37251683.js"
 );
 
 self.addEventListener('message', (event) => {
